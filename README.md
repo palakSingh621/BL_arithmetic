@@ -8,3 +8,4 @@
 ## Task-2
 * creating Addition branch and adding fuction in the calculator.txt file.
 * creating Subtraction branch and adding function in the calculator.txt file
+* creating multiplication branch and adding function in the calculator.txt file
